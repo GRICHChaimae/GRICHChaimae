@@ -27,16 +27,16 @@ I am a passionate Full-Stack Developer dedicated to building scalable, user-cent
 
 ---
 
-### 📊 GitHub Stats
+### 📊 My GitHub Activity
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=GRICHChaimae&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Chaimae's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GRICHChaimae&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GRICHChaimae&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GRICHChaimae&layout=compact&theme=radical" alt="Top Languages" height="150" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GRICHChaimae&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GRICHChaimae&theme=radical" alt="Contribution Streak" />
 </p>
 
 ---
